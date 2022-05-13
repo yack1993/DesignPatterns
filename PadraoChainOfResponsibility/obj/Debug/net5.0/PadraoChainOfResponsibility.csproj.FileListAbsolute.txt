@@ -1,0 +1,16 @@
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoChainOfResponsibility\bin\Debug\net5.0\PadraoChainOfResponsibility.exe
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoChainOfResponsibility\bin\Debug\net5.0\PadraoChainOfResponsibility.deps.json
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoChainOfResponsibility\bin\Debug\net5.0\PadraoChainOfResponsibility.runtimeconfig.json
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoChainOfResponsibility\bin\Debug\net5.0\PadraoChainOfResponsibility.runtimeconfig.dev.json
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoChainOfResponsibility\bin\Debug\net5.0\PadraoChainOfResponsibility.dll
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoChainOfResponsibility\bin\Debug\net5.0\ref\PadraoChainOfResponsibility.dll
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoChainOfResponsibility\bin\Debug\net5.0\PadraoChainOfResponsibility.pdb
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoChainOfResponsibility\obj\Debug\net5.0\PadraoChainOfResponsibility.csproj.AssemblyReference.cache
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoChainOfResponsibility\obj\Debug\net5.0\PadraoChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoChainOfResponsibility\obj\Debug\net5.0\PadraoChainOfResponsibility.AssemblyInfoInputs.cache
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoChainOfResponsibility\obj\Debug\net5.0\PadraoChainOfResponsibility.AssemblyInfo.cs
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoChainOfResponsibility\obj\Debug\net5.0\PadraoChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoChainOfResponsibility\obj\Debug\net5.0\PadraoChainOfResponsibility.dll
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoChainOfResponsibility\obj\Debug\net5.0\ref\PadraoChainOfResponsibility.dll
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoChainOfResponsibility\obj\Debug\net5.0\PadraoChainOfResponsibility.pdb
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoChainOfResponsibility\obj\Debug\net5.0\PadraoChainOfResponsibility.genruntimeconfig.cache

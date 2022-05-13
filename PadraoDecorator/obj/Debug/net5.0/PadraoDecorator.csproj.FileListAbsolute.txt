@@ -1,0 +1,16 @@
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoDecorator\bin\Debug\net5.0\PadraoDecorator.exe
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoDecorator\bin\Debug\net5.0\PadraoDecorator.deps.json
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoDecorator\bin\Debug\net5.0\PadraoDecorator.runtimeconfig.json
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoDecorator\bin\Debug\net5.0\PadraoDecorator.runtimeconfig.dev.json
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoDecorator\bin\Debug\net5.0\PadraoDecorator.dll
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoDecorator\bin\Debug\net5.0\ref\PadraoDecorator.dll
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoDecorator\bin\Debug\net5.0\PadraoDecorator.pdb
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoDecorator\obj\Debug\net5.0\PadraoDecorator.csproj.AssemblyReference.cache
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoDecorator\obj\Debug\net5.0\PadraoDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoDecorator\obj\Debug\net5.0\PadraoDecorator.AssemblyInfoInputs.cache
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoDecorator\obj\Debug\net5.0\PadraoDecorator.AssemblyInfo.cs
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoDecorator\obj\Debug\net5.0\PadraoDecorator.csproj.CoreCompileInputs.cache
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoDecorator\obj\Debug\net5.0\PadraoDecorator.dll
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoDecorator\obj\Debug\net5.0\ref\PadraoDecorator.dll
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoDecorator\obj\Debug\net5.0\PadraoDecorator.pdb
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoDecorator\obj\Debug\net5.0\PadraoDecorator.genruntimeconfig.cache

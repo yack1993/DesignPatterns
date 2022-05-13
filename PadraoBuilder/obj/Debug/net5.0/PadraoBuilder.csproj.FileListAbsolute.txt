@@ -1,0 +1,16 @@
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoBuilder\bin\Debug\net5.0\PadraoBuilder.exe
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoBuilder\bin\Debug\net5.0\PadraoBuilder.deps.json
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoBuilder\bin\Debug\net5.0\PadraoBuilder.runtimeconfig.json
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoBuilder\bin\Debug\net5.0\PadraoBuilder.runtimeconfig.dev.json
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoBuilder\bin\Debug\net5.0\PadraoBuilder.dll
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoBuilder\bin\Debug\net5.0\ref\PadraoBuilder.dll
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoBuilder\bin\Debug\net5.0\PadraoBuilder.pdb
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoBuilder\obj\Debug\net5.0\PadraoBuilder.csproj.AssemblyReference.cache
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoBuilder\obj\Debug\net5.0\PadraoBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoBuilder\obj\Debug\net5.0\PadraoBuilder.AssemblyInfoInputs.cache
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoBuilder\obj\Debug\net5.0\PadraoBuilder.AssemblyInfo.cs
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoBuilder\obj\Debug\net5.0\PadraoBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoBuilder\obj\Debug\net5.0\PadraoBuilder.dll
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoBuilder\obj\Debug\net5.0\ref\PadraoBuilder.dll
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoBuilder\obj\Debug\net5.0\PadraoBuilder.pdb
+C:\Users\Samurai\Documents\code\projetos\DesignPatterns\PadraoBuilder\obj\Debug\net5.0\PadraoBuilder.genruntimeconfig.cache
